@@ -1,0 +1,11 @@
+[18-May-2019 19:48:53 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 15:28:59 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[15-Jun-2019 02:45:02 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 13:46:31 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jul-2019 22:57:04 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 10:09:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Jul-2019 12:19:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[17-Jul-2019 20:41:15 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[17-Jul-2019 22:53:00 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Aug-2019 01:46:19 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[06-Aug-2019 04:07:05 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mysavari/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

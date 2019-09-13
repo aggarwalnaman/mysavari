@@ -1,0 +1,2 @@
+[30-Jan-2019 12:28:24 America/Chicago] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/mysavari/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[30-Jan-2019 15:09:13 America/Chicago] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/mysavari/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58

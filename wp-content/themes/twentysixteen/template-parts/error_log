@@ -1,0 +1,2 @@
+[11-Jun-2019 03:40:53 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/mysavari/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 04:46:20 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home/mysavari/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

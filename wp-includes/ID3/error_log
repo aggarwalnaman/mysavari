@@ -1,0 +1,1 @@
+[30-Jan-2019 05:13:40 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home/mysavari/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76

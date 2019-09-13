@@ -1,0 +1,4 @@
+[31-Jan-2019 04:27:33 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/mysavari/public_html/wp-content/plugins/hello.php on line 60
+[10-Feb-2019 15:57:07 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/mysavari/public_html/wp-content/plugins/hello.php on line 60
+[06-Apr-2019 14:03:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/mysavari/public_html/wp-content/plugins/hello.php on line 60
+[06-Apr-2019 14:04:00 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/mysavari/public_html/wp-content/plugins/hello.php on line 60

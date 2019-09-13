@@ -1,0 +1,5 @@
+[30-Jan-2019 09:18:16 America/Chicago] PHP Fatal error:  Class 'WP_List_Table' not found in /home/mysavari/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[30-Jan-2019 09:18:29 America/Chicago] PHP Fatal error:  Class 'WP_List_Table' not found in /home/mysavari/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[30-Jan-2019 09:50:09 America/Chicago] PHP Fatal error:  Class 'WP_Themes_List_Table' not found in /home/mysavari/public_html/wp-admin/includes/class-wp-theme-install-list-table.php on line 18
+[30-Jan-2019 13:27:24 America/Chicago] PHP Fatal error:  Class 'WP_List_Table' not found in /home/mysavari/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
+[30-Jan-2019 13:27:28 America/Chicago] PHP Fatal error:  Class 'WP_List_Table' not found in /home/mysavari/public_html/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
